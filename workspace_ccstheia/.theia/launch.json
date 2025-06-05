@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "surface_classification_demo_xwrL64xx-MATERIAL-DIFF",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "surface_classification_demo_xwrL64xx-MATERIAL-DIFF",
+                "resourceId": "/surface_classification_demo_xwrL64xx-MATERIAL-DIFF"
+            },
+            "debuggerSettings": {
+                "targetConfigs/IWRL6432.ccxml": {
+                    "Texas Instruments XDS110 USB Debug Probe/Cortex_M4_0": {
+                        "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                    }
+                }
+            }
+        }
+    ]
+}
